@@ -1,5 +1,8 @@
 # Ethical Design and Use of Automated Decision Systems
 
+## Conformity Assessment Scheme
+This conformity assessmet scheme is part of the broader [Digital Trust Conformity Assessment Scheme](https://github.com/dgc-cgn/CAS-Digital-Trust#digital-trust-conformity-assessment-scheme)
+
 ## Certification Sub-Scope
 
 Ethical design is the practice of designing products, services, and systems in a way that takes into consideration the ethical implications of their development, use, and disposal. It involves considering the potential impacts of these products and systems on individuals, groups, and society as a whole, and designing them in a way that is responsible, transparent, and respectful of the rights and interests of all stakeholders.
