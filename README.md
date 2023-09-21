@@ -60,7 +60,10 @@ This assessment scheme may be used to support the following activities:
 * Program Design
 * ...
 
-  ## Validation and Verification
+## Validation and Verification
 
 This conformity assessment scheme may be applied in conjunction with [ISO/IEC 17029:2019 Conformity Assessment](https://www.iso.org/standard/29352.html) for activities relating to performing validation/verificationas conformity assessment activities.
 
+## Scheme References
+
+Can be found [here](./scheme/references.md)
