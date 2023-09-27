@@ -2,7 +2,7 @@
 
 ## Purpose of Scheme
 
-This Conformity Assessment Scheme(CAS) ensure the effectiveness of red teaming exercises on AI systems. The CAS provides a systematic and standardized approach to evaluate the procedures, methodologies, and outcomes of red teaming exercises against established criteria and benchmarks. The CAS additionally ensures that red teaming exercises are conducted proficiently, ethically, and responsibly. It facilitates the objective assessment of the red team’s competence, the validity of their findings, and the value of their recommendations. 
+This Conformity Assessment Scheme (CAS) ensures the effectiveness of red teaming exercises on AI systems. The CAS provides a systematic and standardized approach to evaluate the procedures, methodologies, and outcomes of red teaming exercises against established criteria and benchmarks. The CAS additionally ensures that red teaming exercises are conducted proficiently, ethically, and responsibly. It facilitates the objective assessment of the red team’s competence, the validity of their findings, and the value of their recommendations. 
 
 A formal certification or a statement of validation/verification, the final outcome of the assessment process defined by the CAS, instills confidence among stakeholders that the red teaming of AI systems is reliable, effective, and contributes to enhancing the security and resilience of the systems being tested and the safety of the users involved. This approach ultimately fosters trust and credibility in the red teaming process and its role in securing AI systems.
 
