@@ -1,7 +1,13 @@
 # Ethical Design and Use of Automated Decision Systems
 
 ## Conformity Assessment Scheme
+
 This conformity assessmet scheme is part of the broader [Digital Trust Conformity Assessment Scheme](https://github.com/dgc-cgn/CAS-Digital-Trust#digital-trust-conformity-assessment-scheme)
+
+Some preliminary tooling has been developed:
+
+- [AI Evidence Evaluation](./scheme/ai-evidence-evaluation.md)
+- [Red Teaming](./scheme/red-teaming.md)
 
 ## Digital Trust Sub-Scope
 
