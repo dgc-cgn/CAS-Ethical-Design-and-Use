@@ -4,7 +4,9 @@
 
 This conformity assessmet scheme is part of the broader [Digital Trust Conformity Assessment Scheme](https://github.com/dgc-cgn/CAS-Digital-Trust#digital-trust-conformity-assessment-scheme)
 
-Some preliminary tooling has been developed:
+## Preliminary Tooling
+
+Preliminary tooling that has been developed and is being used to inform the development of the conformity assessment scheme.
 
 * [AI Evidence Evaluation](./scheme/ai-evidence-evaluation.md)
 * [Red Teaming](./scheme/red-teaming.md)
