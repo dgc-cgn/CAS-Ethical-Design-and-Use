@@ -6,8 +6,9 @@ This conformity assessmet scheme is part of the broader [Digital Trust Conformit
 
 Some preliminary tooling has been developed:
 
-- [AI Evidence Evaluation](./scheme/ai-evidence-evaluation.md)
-- [Red Teaming](./scheme/red-teaming.md)
+* [AI Evidence Evaluation](./scheme/ai-evidence-evaluation.md)
+* [Red Teaming](./scheme/red-teaming.md)
+* [GEN Questionnaire](./docs/GenAI-Questionnaire.pdf), courtesy of [OpenRep.AI](https://www.openrep.ai/), recognizing their support of future GenAI development assessment tools and standards.
 
 ## Digital Trust Sub-Scope
 
@@ -57,6 +58,10 @@ This assessment scheme may be used to grant certificates by conformity assesment
 * ISO 17021
 * ISO 17029
 * ISO 17029
+
+
+
+
 
 ### Other Applications
 
